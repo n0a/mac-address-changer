@@ -21,6 +21,7 @@ Example usage:
 
 **Generage random MAC address with vendor**
 If you want to generate MAC-address with needed vendor, just use option *-v --vendor*.
+
 **Supported vendors:** xen, huawei, cisco, samsung, google, juniper, dell, 
 broadcom, tplink, hp, indel, dlink, zte, nokia, netgear, microsoft, xiaomi, apple
 Example usage: 
