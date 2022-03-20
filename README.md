@@ -1,10 +1,7 @@
 
-# scripts repo
-This repo for temporary saving different code scatches.
-
 ## MAC changer
 
-**mac_changer.py** — Linux/macOS MAC-address random changer with vendor choices and automatic backups original address.
+**mac_changer.py** — Linux/macOS random MAC-address changer with vendor choices and automatic backups original address.
 
 **Use own MAC address**
 Use *-m --mac* option.
